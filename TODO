@@ -1,0 +1,5 @@
+Ce qu'il reste a faire :
+
+- prog dynamique en utilisant des vertices
+- ajouter les valeurs moyennes des triangulations minimales dans les resultats
+- mesurer les performances et generer des graphes (ex. GNU Octave)
